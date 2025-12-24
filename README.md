@@ -1,7 +1,4 @@
-% Simple BitTorrent Client Development Proposal
-% Software Developer Society
-% [Daniel Chukwu/DevSoc Team]
-[24th Dec, 2025]
+
 
 # Project Proposal: Building a Lightweight BitTorrent Client
 
